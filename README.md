@@ -7,4 +7,4 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python-python-green;
+![Python](https://img.shields.io/badge/python-python-green)&nbsp;
