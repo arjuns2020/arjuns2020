@@ -16,14 +16,12 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting / Project coloboration / volunteering, or just for some interesting discussion about Data Science.\
 ✉️ &nbsp;You can shoot me an email at arjunsm2020@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://github.com/arjuns2020/arjuns2020/blob/main/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right"/>
 
 
  
 
 ### 🛠 &nbsp;Tech Stack
-
-<img alt="ML" src="https://media.giphy.com/media/CVtNe84hhYF9u/source.gif" align ="center"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![ML](https://img.shields.io/badge/-Machine%20Learning-brightgreen)&nbsp;
