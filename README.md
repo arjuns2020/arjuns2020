@@ -12,7 +12,7 @@
    🌟 Annie Laurie Bass Scholarship recipient 🥇.\
    ✨ JSOM Academic Honors - Scholar of Recognition 🎓.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Deep Learning, and Cloud Architecture.\
-📷 &nbsp;In my free time, I love to explore new places and do sme photography.\
+📷 &nbsp;In my free time, I love to explore new places and do some photography.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting / Project coloboration / volunteering, or just for some interesting discussion about Data Science.\
 ✉️ &nbsp;You can shoot me an email at arjunsm2020@gmail.com! I'll try to respond as soon as I can.\
 
