@@ -23,6 +23,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<img alt="ML" src="https://media.giphy.com/media/CVtNe84hhYF9u/source.gif" align ="center"/>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![ML](https://img.shields.io/badge/-Machine%20Learning-brightgreen)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
