@@ -8,9 +8,9 @@
 🤖 &nbsp;I am a Data Scientist, I analyze data, build, train and deploy Machine Learning / Deep Learning models.\
 ☁️ I am an AWS Certified Machine Learning Engineer & Cloud Practitioner 🧠.\
 📊 Tableau Certified Desktop Specialist 📈.\
-🎓 &nbsp;I hold a Masters degree in Business Analytics from The University of Texas at Dallas.\
-   🌟Annie Laurie Bass Scholarship recipient 🥇.\
-   🌟JSOM Academic Honors - Scholar of Recognition 🎓.\
+🧑🏻‍🎓 &nbsp;I hold a Masters degree in Business Analytics from The University of Texas at Dallas.\
+   🌟 Annie Laurie Bass Scholarship recipient 🥇.\
+   ✨ JSOM Academic Honors - Scholar of Recognition 🎓.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Deep Learning, and Cloud Architecture.\
 📷 &nbsp;In my free time, I love to explore new places and do sme photography.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting / Project coloboration / volunteering, or just for some interesting discussion about Data Science.\
