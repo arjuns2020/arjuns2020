@@ -25,7 +25,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![ML](https://img.shields.io/badge/-Machine%20Learning-blue)&nbsp;
-![TF[(https://img.shields.io/badge/-Tensor%20Flow-orange)&nbsp;
+![TF](https://img.shields.io/badge/-Tensor%20Flow-orange)&nbsp;
 ![sql](https://img.shields.io/badge/-SQL-blue)&nbsp;\
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![docker](https://badgen.net/badge/icon/docker?icon=docker&label)
