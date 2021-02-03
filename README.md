@@ -24,9 +24,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![ML](https://img.shields.io/badge/-Machine%20Learning-brightgreen)&nbsp;
+![ML](https://img.shields.io/badge/-Machine%20Learning-blue)&nbsp;
+![TF[(https://img.shields.io/badge/-Tensor%20Flow-orange)&nbsp;
+![sql](https://img.shields.io/badge/-SQL-blue)&nbsp;\
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![docker](https://badgen.net/badge/icon/docker?icon=docker&label)\
+![docker](https://badgen.net/badge/icon/docker?icon=docker&label)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
