@@ -25,7 +25,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![ML](https://img.shields.io/badge/-Machine%20Learning-blue)&nbsp;
-![tf](https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-ar21.svg)&nbsp;
 ![TF](https://img.shields.io/badge/-Tensor%20Flow-orange)&nbsp;
 ![sql](https://img.shields.io/badge/-SQL-blue)&nbsp;\
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
@@ -38,7 +37,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;\
+![lr](img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white")&nbsp
 
 
 ### ⚙️ &nbsp;GitHub Analytics
