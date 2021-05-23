@@ -53,7 +53,8 @@
 </a>
 </p>
 
-
+ ![Visitor Count](https://profile-counter.glitch.me/{arjuns2020}/count.svg)
+ 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">  
