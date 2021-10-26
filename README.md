@@ -7,6 +7,7 @@
 
 🤖 &nbsp;I am a Data Scientist, I analyze data, build, train and deploy Machine Learning / Deep Learning models.\
 ☁️ I am an AWS Certified Machine Learning Engineer & Cloud Practitioner 🧠.\
+🌐 Google Certified TensorFlow Developer ❗.\
 📊 Tableau Certified Desktop Specialist 📈.\
 🧑🏻‍🎓 &nbsp;I hold a Masters degree in Business Analytics from The University of Texas at Dallas.\
    🌟 Annie Laurie Bass Scholarship recipient 🥇.\
